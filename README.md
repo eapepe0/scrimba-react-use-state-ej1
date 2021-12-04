@@ -1,2 +1,4 @@
 # scrimba-react-use-state-ej1
-Created with CodeSandbox
+
+
+![screenshot](https://i.imgur.com/Gsg3HdH.png)
